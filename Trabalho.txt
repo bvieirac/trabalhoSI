@@ -1,0 +1,5 @@
+client secret
+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
+
+client id
+30791289747-2bbtj4v24gqar9lb87ulk9n68aotq6mu.apps.googleusercontent.com
